@@ -1,4 +1,5 @@
-# 8 Product Design Lessons Learned: Building the Open Source Docsify-This Project
+# 8 Product Design Lessons Learned
+## Building the Open Source Docsify-This Project
 
 **Communicate Purpose and Value**  
 Provide potential users and contributors of your open-source project its purpose and value using jargon-free language, ideally within 5 seconds

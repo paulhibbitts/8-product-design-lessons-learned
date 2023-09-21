@@ -1,4 +1,4 @@
-# 8 Product Design Lessons Learned
+# 8 Valuable Practices Learned
 ## Building the Open Source Docsify-This Project
 
 ### Communicate Purpose and Value

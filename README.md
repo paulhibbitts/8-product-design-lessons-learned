@@ -1,4 +1,4 @@
-# 8 Effective Practices Learned
+# 8 Effective Strategies Learned
 ## Building the Open Source Docsify-This Project
 
 ### Communicate Purpose and Value

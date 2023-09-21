@@ -1,4 +1,4 @@
-# 8 Valuable Practices Learned
+# 8 Effective Practices Learned
 ## Building the Open Source Docsify-This Project
 
 ### Communicate Purpose and Value

@@ -1,5 +1,5 @@
-# Strategies for Success
-## Building the Open Source Docsify-This Project
+# Strategies for Open Source Success
+## Building the Docsify-This Project
 
 ### Communicate Purpose and Value
 Provide potential users and contributors of your open-source project its purpose and value using jargon-free language, ideally within 5 seconds
